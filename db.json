@@ -6,6 +6,26 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$FpehHit52cOjbeCqJbs6YuQt79f203vqsh8oiwWZWVvjn.7Q.ooWy",
+      "name": "Teste",
+      "img": "teste",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "user": {
+        "name": "Teste",
+        "img": "teste"
+      },
+      "userId": 2,
+      "comment": "Muito bom!",
+      "likes": 12,
+      "movieID": 123456,
+      "id": 1
     }
   ]
 }
