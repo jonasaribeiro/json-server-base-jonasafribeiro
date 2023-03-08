@@ -15,17 +15,6 @@
       "id": 2
     }
   ],
-  "comments": [
-    {
-      "user": {
-        "name": "Teste",
-        "img": "teste"
-      },
-      "userId": 2,
-      "comment": "Muito bom!",
-      "likes": 12,
-      "movieID": 123456,
-      "id": 1
-    }
-  ]
+  "comments": [],
+  "savedMovies": []
 }
